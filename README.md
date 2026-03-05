@@ -1,6 +1,5 @@
 # HaloOglasi Web Scraping
 
-This project 
 This project provides an automated solution for collecting real estate rental listings in Belgrade from the **Halo Oglasi** website. The script is designed to run periodically, fetch the latest listings, and save them in a structured `.tsv` format for further analysis.
 
 ## Features
