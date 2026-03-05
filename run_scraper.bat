@@ -1,0 +1,6 @@
+echo Executing Jupyter Notebook...
+call python -m jupyter nbconvert --to python get_data.ipynb --output get_data_python_script.py
+echo Running the generated Python script...
+call python get_data_python_script.py
+
+pause

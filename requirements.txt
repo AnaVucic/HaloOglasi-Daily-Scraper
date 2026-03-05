@@ -1,0 +1,8 @@
+# Core HTTP and HTML Parsing
+requests==2.32.5
+
+# Advanced HTML Parsing and Data Management
+pandas==2.3.2
+
+# Headless Browser Automation (if needed)
+selenium==4.35.0
